@@ -18,9 +18,12 @@ Create react app uses webpack
 - Diagnostic
 - Can help to make our app https
 - Tree shake - remove unused code
+- dIFFERENT DEV AND PROD BUNDLES
 
 npx parcel index.html 
 
 - npx will execute the package
 
 https://parceljs.org/
+
+browserlist - to make our app to support different browsers
