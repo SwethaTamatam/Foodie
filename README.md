@@ -18,7 +18,7 @@ Create react app uses webpack
 - Diagnostic
 - Can help to make our app https
 - Tree shake - remove unused code
-- dIFFERENT DEV AND PROD BUNDLES
+- different dev and prod modules
 
 npx parcel index.html 
 
