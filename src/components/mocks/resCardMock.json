@@ -1,0 +1,87 @@
+{
+    "id": "107605",
+    "name": "Aubree",
+    "cloudinaryImageId": "6a7973d432c533933de71326a0a3dde9",
+    "locality": "6th Block",
+    "areaName": "Koramangala",
+    "costForTwo": "₹700 for two",
+    "cuisines": [
+        "Desserts",
+        "Bakery"
+    ],
+    "avgRating": 4.2,
+    "veg": true,
+    "feeDetails": {
+        "restaurantId": "107605",
+        "fees": [
+            {
+                "name": "BASE_DISTANCE",
+                "fee": 3900
+            },
+            {
+                "name": "BASE_TIME"
+            },
+            {
+                "name": "ANCILLARY_SURGE_FEE"
+            }
+        ],
+        "totalFee": 3900
+    },
+    "parentId": "3807",
+    "avgRatingString": "4.2",
+    "totalRatingsString": "1K+",
+    "sla": {
+        "deliveryTime": 30,
+        "lastMileTravel": 1.3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30 mins",
+        "lastMileTravelString": "1.3 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2023-11-01 00:00:00",
+        "opened": true
+    },
+    "badges": {
+        "imageBadges": [
+            {
+                "imageId": "newg.png",
+                "description": "Gourmet"
+            }
+        ]
+    },
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {
+                "badgeObject": [
+                    {
+                        "attributes": {
+                            "description": "Gourmet",
+                            "imageId": "newg.png"
+                        }
+                    }
+                ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "₹150 OFF",
+        "subHeader": "ABOVE ₹349",
+        "discountTag": "FLAT DEAL"
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+}
